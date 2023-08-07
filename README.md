@@ -40,6 +40,10 @@ This Project is aimed to implement a song based web application to assist user a
 User starts the conservations. .  Emotional Analysis of the conversation is done using the IBM Emotional API.  Get the reply to the conservation from the chatbot.  Based on the Emotion which the app perceives ,top songs are retrieved using Last.fm songs API.  If the user listens to a particular song for sometime similar song would be suggested to the user Last.fm API.  Finally We will getting Our Desired output.
 
 
+![ME_ME_PROJECT_CHATBOT_PYTHON_MODULE_ME_PROJECT_CHATBOT_PYTHON_MODULE_CHATBOT_PYTHON_architecture](https://github.com/Arpit-00/Musicbot/assets/96295769/62c79e25-3961-49e8-82f5-b5ff312e684a)
+
+
+
 
                                             Chapter 2 : Methodology
 
